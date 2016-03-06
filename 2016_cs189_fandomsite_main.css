@@ -1,0 +1,142 @@
+.jumbotron {
+  background-image: url('http://www.followingthenerd.com/site/wp-content/uploads/oracle4.png');
+  padding: 3px solid #c94b30;
+  margin: 0px;
+}
+
+.jumbotron h1 {
+  color: gainsboro;
+  font-size: 100px;
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.nav-tabs {
+  background-color: #30aec9;
+  border: 3px solid #63c930;
+  padding: 0px;
+  margin: 0px;
+}
+
+.nav-tabs li {
+  display: inline;
+}
+
+.nav li a {
+  color: white;
+}
+.tab-content {
+  background-color: #9730c9;
+}
+
+.welcome {
+  background-color: mistyrose;
+  border: 3px solid thistle;
+  margin-top: 30px;
+  padding: 20px;
+  padding-top: 5px;
+}
+
+.vocab {
+  background-color: mistyrose;
+  border: 3px solid thistle;
+  margin-bottom: 50px;
+  margin-top: 20px;
+  padding: 20px;
+  padding-top: 5px;
+}
+
+.bio{
+  background-color: thistle;
+  border: 3px solid thistle;
+  margin-top: 20px;
+  padding: 20px;
+  padding-top: 5px;
+}
+
+
+.bio .kyoya img {
+ width: 100px;
+ height: auto;
+}
+
+.bio .pride img {
+ width: 300px;
+ height: auto;
+}
+
+.resources {
+  background-color: #62c930;
+  padding: 20px;
+  padding-top: 5px;
+  margin-top: 20px;
+}
+
+.intro {
+ background-color: thistle;
+  border: 3px solid thistle;
+  margin-top: 20px;
+  padding: 20px;
+  padding-top: 5px;
+}
+
+.example1 {
+  background-color: #ffb196;
+  border: 3px solid thistle;
+  margin-bottom: 50px;
+  margin-top: 20px;
+  padding: 20px;
+}
+
+.example2 {
+  background-color: #c9ffff;
+  border: 3px solid thistle;
+  margin-bottom: 50px;
+  margin-top: 20px;
+  padding: 20px;
+}
+
+.batman img {
+ width: 500px;
+ height: auto;
+}
+
+.doctor img {
+ width: 250px;
+ height: auto;
+}
+
+.starTrek img {
+ width: 700px;
+ height: auto;
+ padding-top: 20px;
+ padding-bottom: 20px;
+}
+.carousel {
+ width: 300px;
+ height: 450px;
+}
+
+.carousel-inner.item {
+ width: 300px;
+ height: 450px;
+}
+
+.potter img {
+ width: 300px;
+ height: 450px;
+}
+
+.fmab img {
+ width: 300px;
+ height: auto;
+ padding-top: 40px;
+ padding-bottom: 20px;
+}
+
+.ouran img {
+ width: 350px;
+ height: auto;
+ padding-top: 20px;
+ padding-bottom: 20px;
+}
